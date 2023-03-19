@@ -8,6 +8,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/tran-tuan221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tran-tuan221" height="30" width="40" /></a>
 <a href="https://fb.com/tuân trần" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuân trần" height="30" width="40" /></a>
+<a href="https://github.com/tuantran221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tuân trần" height="30" width="40" /></a>
+</p>
+
 </p>
 
 
