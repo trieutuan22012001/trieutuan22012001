@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Triệu Tuân</h1>
-<img align="center" height="400" width="1000" alt="coding" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"><img/>
+<img align="center" height="400" width="1000" alt="coding" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"><img/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuantran221&label=Profile%20views&color=0e75b6&style=flat" alt="tuantran221" /> </p>
 
 - 🌱 I’m currently learning **Backend Java Developer**
